@@ -1,8 +1,7 @@
 """
 Name:LIU YUHAO
 Date:27/5/2022
-Brief Project Description:CP1404/CP5632 – Assignment 2
-Reading Tracker 2.0
+Brief Project Description:Assignment 2
 GitHub URL:https://github.com/Likyer/assignment-2-LIUYUHAO-14045840
 """
 
